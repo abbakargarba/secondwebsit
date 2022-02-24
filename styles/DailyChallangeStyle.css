@@ -1,0 +1,43 @@
+
+            main {
+
+               width: 800px;
+               margin: 200px auto 72px auto;
+               background-color: rgb(32, 21, 17);
+               padding: 24px;
+               border: 5px solid #7e7471;
+               border-radius: 10px;
+               box-shadow: 4px 6px 10px  rgb(32, 21, 17);
+            }           
+
+
+           
+            #todays-objective {
+               color:  rgb(78, 13, 5);
+               font-weight: bolder;
+               font-size: 20px;
+               border-radius: 50px;
+               margin-bottom: 50px;    
+            }
+               
+
+             
+            
+             img {
+
+                width: 150px;
+                height: 150px;
+                border-radius: 50px;
+                border:5px solid #7e7471;
+                margin-top: -134px;
+                
+             }
+
+             h1 {
+                font-size: 32px;
+             }
+
+             span {
+                color: #a39e9e;
+             }
+

@@ -1,0 +1,50 @@
+ h1 {
+font-size: 48px;
+color: #dada56;
+margin:12px 0 ;
+
+
+ }
+ 
+  
+#description {
+
+ 
+ font-size: 20px;
+ border-radius: 50px;
+ margin: 36px auto 0 auto;
+ margin-bottom: 32px;
+ padding: 16px;
+ background-color: hsl(30, 6%, 72%);
+ color: rgb(78, 13, 5);
+ width: 300px;
+ box-shadow: 4px 4px 8px rgb(12, 2, 1);
+
+}
+
+
+ol {
+    list-style: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0%;
+;
+
+}
+li {
+    padding: 16px;
+    margin: 32px;
+    border: 5px solid ;
+    border-radius: 50px;
+    background-color: hsl(30, 6%, 72%);
+    box-shadow: 10px 10px 20px rgb(12, 2, 1);
+}
+h2 {
+    
+    color: rgb(78, 13, 5);
+
+}
+main {
+
+    color: rgb(71, 29, 22);
+}
